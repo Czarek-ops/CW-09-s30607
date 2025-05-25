@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Przychodnia", "Przychodnia\Przychodnia.csproj", "{AEA92B96-9158-4098-ACDE-F4E9E6BF02AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEA92B96-9158-4098-ACDE-F4E9E6BF02AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA92B96-9158-4098-ACDE-F4E9E6BF02AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA92B96-9158-4098-ACDE-F4E9E6BF02AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA92B96-9158-4098-ACDE-F4E9E6BF02AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
